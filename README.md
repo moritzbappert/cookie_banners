@@ -1,3 +1,3 @@
-# Block cookie banners in CSS
+# Hide cookie banners
 
-See post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+This extension hide cookie banners
